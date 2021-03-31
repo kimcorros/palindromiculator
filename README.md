@@ -1,4 +1,6 @@
 # palindromiculator
+![image](https://user-images.githubusercontent.com/45932930/113163300-9e053300-9272-11eb-8294-ee4087541909.png)
+
 
 ## Build Setup
 
